@@ -8,8 +8,8 @@ I am going to dedicate this website to my favorite car!
 
 **Porshce 918 Spyder**
 
-I started to like this car when I was in 3rd grade. It is a hybrid with exhaust caps above the bumper and I thought the acid green accents were really cool. 
+I started to like this car when I was in 3rd grade. It is a hybrid with exhaust caps above the bumper and I thought the acid green accents were really cool.
+I also started to like Porsche as well.
 
 Here is a link if you want more information:
-
-https://www.motortrend.com/vehicle-genres/porsche-918-spyder-history-photos-specifications/
+Website (https://www.motortrend.com/vehicle-genres/porsche-918-spyder-history-photos-specifications/)
