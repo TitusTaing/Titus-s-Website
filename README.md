@@ -9,7 +9,9 @@ I am going to dedicate this website to my favorite car!
 **Porsche 918 Spyder**
 
 I started to like this car when I was in 3rd grade. It is a hybrid with exhaust caps above the bumper and I thought the acid green accents were really cool.
-I also started to like Porsche as well.
+I also started to like Porsche as well. The V8 engine produces 608 horsepower and 390 lb-ft of torque. There are dual electric motors: front and rear. amd this adds an 279 horsepower, pushing total output to 887 horsepower and a stunning 944 lb-ft of torque. A 6.8-kWh battery provides the juice for the motors, and allows an EPA-rated 12 miles of all-electric range.
 
 Here is a link if you want more information:
 Website (https://www.motortrend.com/vehicle-genres/porsche-918-spyder-history-photos-specifications/)
+
+theme:minima
